@@ -69,7 +69,7 @@ Key packages used in this project:
 1. Clone the repository:
 
    ```bash
-   git clone [<your-repo-url>](https://github.com/SevenSquare-Tech/language-learning-app)
+   git clone https://github.com/SevenSquare-Tech/language-learning-app
    ```
 
 2. Navigate to the project directory:
