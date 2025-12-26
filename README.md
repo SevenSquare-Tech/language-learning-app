@@ -75,7 +75,7 @@ Key packages used in this project:
 2. Navigate to the project directory:
 
    ```bash
-   cd langapp
+   cd language-learning-app
    ```
 
 3. Install dependencies:
